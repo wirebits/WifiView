@@ -1,5 +1,5 @@
 # WifiView
-# A tool which show the all wireless interfaces (on-board and adapters) with drivers and mode.
+# A tool which show the all wifi interfaces (on-board and adapters) with drivers and mode.
 # Author - WireBits
 
 #!/bin/bash
