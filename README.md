@@ -30,4 +30,4 @@ chmod 700 WifiView.sh
 
 <h1>Key Features</h1>
 <b>1. Simple and clean interface.</b><br>
-<b>2. Show : <ol><li>Wifi Interface</li><li>Driver of the wireless adapter</li><li>Mode</li></ol></b>
+<b>2. Show : <ol><li>Wifi Interface</li><li>Driver of the wireless adapter</li><li>Mode</li><li>Internet Access</li></ol></b>
