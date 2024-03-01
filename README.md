@@ -1,5 +1,5 @@
 # WifiView
-A tool which show the all wifi interfaces (on-board and adapters) with drivers and mode.
+A tool which show the all wifi interfaces (on-board and adapters) with some basic details.
 
 <h1>Setup</h1>
 1. Check the vendor and product by type the following command :<br><br>
