@@ -4,6 +4,7 @@ A tool which show the all wifi interfaces (on-board and adapters) with some basi
 <h1>Tested Systems</h1>
 The tool is currently tested on : <br>
 1. Raspberry Pi OS<br>
+2. Kali Linux<br>
 The testing is going on different systems.
 
 <h1>Install and Run</h1>
