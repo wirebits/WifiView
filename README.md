@@ -9,18 +9,11 @@ The testing is going on different systems.
 
 <h1>Install and Run</h1>
 1. Download or Clone the Repository.<br>
-2. Move to the folder and give executable permission to the file by type the following command :<br><br>
+2. Open the folder and type the following command :<br><br>
 
 ```
-chmod 700 WifiView.sh
+make
 ```
-
-3. Run the file by type :<br>
-
-```
-./WifiView.sh
-```
-
 <h1>Key Features</h1>
-<b>1. Simple and clean interface.</b><br>
-<b>2. Show : <ol><li>Wifi Interface</li><li>Driver of the wireless adapter</li><li>Mode</li><li>Internet Access</li></ol></b>
+- Simple and clean interface.<br>
+- It shows : Wifi Interface , Driver of the wireless adapter , Mode and Internet Access.
