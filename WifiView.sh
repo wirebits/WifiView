@@ -1,8 +1,9 @@
+#!/bin/bash
+
 # WifiView
 # A tool which show the all wifi interfaces (on-board and adapters) with some basic details.
 # Author - WireBits
 
-#!/bin/bash
 clear
 printf "+-------------------------------------------------------------+\n"
 printf "|------------------╦ ╦╦╔═╗╦  ╦  ╦╦╔═╗╦ ╦----------------------|\n"
